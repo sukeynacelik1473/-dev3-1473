@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\bin\Debug\ödev3-1473.exe.config
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\bin\Debug\ödev3-1473.exe
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\bin\Debug\ödev3-1473.pdb
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3-1473.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3_1473.Form1.resources
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3_1473.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3-1473.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3-1473.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3-1473.exe
+C:\Users\ASUS\source\repos\ödev3-1473\ödev3-1473\obj\Debug\ödev3-1473.pdb
